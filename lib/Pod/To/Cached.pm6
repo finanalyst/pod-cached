@@ -54,7 +54,7 @@ $cache.freeze;
     path to the collection of pod files
     ignored if cache frozen
 
-=item @!extensions = <pod pod6>
+=item @!extensions = <pod pod6 p6 pm>
     the possible extensions for a POD file
 
 =item verbose = False
